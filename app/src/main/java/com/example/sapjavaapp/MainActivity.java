@@ -16,6 +16,7 @@ import de.codecrafters.tableview.toolkit.SimpleTableDataAdapter;
 import de.codecrafters.tableview.toolkit.SimpleTableHeaderAdapter;
 
 public class MainActivity extends AppCompatActivity {
+
     static String[][] spaceProbes = {
             {"1", "Peter", "stone", "Mars"},
             {"2", "Vlad", "chemical", "Veneer"},
